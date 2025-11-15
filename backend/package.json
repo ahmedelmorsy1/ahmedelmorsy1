@@ -1,0 +1,17 @@
+{
+  "name": "pitch-booking-backend",
+  "version": "0.1.0",
+  "description": "Lightweight API server for managing pitch availability and bookings.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "football",
+    "booking",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

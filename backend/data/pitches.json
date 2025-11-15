@@ -1,0 +1,28 @@
+[
+  {
+    "id": "pitch-1",
+    "name": "Downtown Arena",
+    "location": "Nasr City",
+    "pricePerHour": 450,
+    "surfaceType": "Artificial Turf",
+    "amenities": ["Showers", "Parking", "Cafeteria"],
+    "slots": [
+      "17:00-18:00",
+      "18:00-19:00",
+      "19:00-20:00"
+    ]
+  },
+  {
+    "id": "pitch-2",
+    "name": "Garden City Sports Hub",
+    "location": "Garden City",
+    "pricePerHour": 380,
+    "surfaceType": "Natural Grass",
+    "amenities": ["Changing Rooms", "Equipment Rental"],
+    "slots": [
+      "16:00-17:00",
+      "17:00-18:00",
+      "18:00-19:00"
+    ]
+  }
+]
